@@ -1,6 +1,6 @@
 <h1>👋 Hey, I'm Sudipta Kumar Jana</h1>
 
-💻 B.Tech CSE (AI & ML) Student | Aspiring Software Engineer
+<h3>💻 B.Tech CSE (AI & ML) Student | Aspiring Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Passionate+about+Programming;Exploring+AI+%26+Machine+Learning;Learning+Today%2C+Building+Tomorrow" />
@@ -24,7 +24,7 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 - 🐼 Currently learning Pandas
 - 🎯 Focused on building practical projects
 
----
+
 
 🛠️ Tech Stack
 
