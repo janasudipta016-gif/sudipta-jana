@@ -7,9 +7,9 @@
 </p><p align="center">
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Interest-Software%20Development-purple?style=for-the-badge" />
-</p>---
+</p>
 
-🚀 About Me
+<h2>🚀 About Me</h2>
 
 I'm a Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning.
 
@@ -26,33 +26,36 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 
 
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-💻 Programming Languages
+<h3>💻 Programming Languages</h3>
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>📊 Python Libraries
+</p>
+<h3>📊 Python Libraries</h3>
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-Learning-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>🌐 Web Technologies
+</p>
+<h3>🌐 Web Technologies</h3>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>🧰 Tools & Platforms
+</p>
+<h3>🧰 Tools & Platforms</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>---
+</p>
 
-🧠 Computer Science Fundamentals
+ <h3> 🧠 Computer Science Fundamentals</h3>
 
 - Data Structures & Algorithms (DSA)
 - Programming Fundamentals
@@ -60,18 +63,18 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 - Object-Oriented Programming Concepts
 - Database Fundamentals
 
----
 
-📚 Currently Learning
+
+<h3> 📚 Currently Learning</h3>
 
 - 🐼 Pandas
 - 🤖 Machine Learning Fundamentals
 - 📈 Data Analysis
 - 💻 Advanced Problem Solving
 
----
 
-🎯 Areas of Interest
+
+<h3>🎯 Areas of Interest</h3>
 
 - Artificial Intelligence
 - Machine Learning
@@ -79,7 +82,7 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 - Data Analysis
 - Application Development
 
-📊 GitHub Analytics
+<h3>📊 GitHub Analytics</h3>
 
 <p align="center">
   <img
@@ -101,7 +104,7 @@ I'm passionate about programming, problem-solving, and exploring how technology 
     width="70%"
   />
 </p>
-🌱 My Goals
+<h3>🌱 My Goals</h3>
 
 - Strengthen programming fundamentals
 - Improve problem-solving skills
@@ -111,13 +114,13 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 - Prepare for Software Engineering internships
 
 
-💡 My Philosophy
+<h3>💡 My Philosophy</h3>
 
 <p align="center">
   <i>"Great developers are built through curiosity, consistency, and continuous learning."</i>
 </p>---
 
-🤝 Connect With Me
+<h3>🤝 Connect With Me</h3>
      
 <p align="center">
   <a href="https://github.com/janasudipta016-gif">
