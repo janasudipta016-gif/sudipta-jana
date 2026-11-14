@@ -1,4 +1,4 @@
-👋 Hey, I'm Sudipta Kumar Jana
+<h1>👋 Hey, I'm Sudipta Kumar Jana</h1>
 
 💻 B.Tech CSE (AI & ML) Student | Aspiring Software Engineer
 
@@ -79,17 +79,28 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 - Data Analysis
 - Application Development
 
----
-
 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=janasudipta016-gif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasudipta016-gif&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p><p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=janasudipta016-gif&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>---
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=janasudipta016-gif&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=janasudipta016-gif&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    width="49%"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=janasudipta016-gif&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
+</p>
 🌱 My Goals
 
 - Strengthen programming fundamentals
@@ -99,7 +110,6 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 - Gain practical development experience
 - Prepare for Software Engineering internships
 
----
 
 💡 My Philosophy
 
