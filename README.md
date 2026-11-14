@@ -118,7 +118,7 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 
 <p align="center">
   <i>"Great developers are built through curiosity, consistency, and continuous learning."</i>
-</p>---
+</p>
 
 <h3>🤝 Connect With Me</h3>
      
