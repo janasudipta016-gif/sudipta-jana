@@ -9,21 +9,19 @@
   <img src="https://img.shields.io/badge/Interest-Software%20Development-purple?style=for-the-badge" />
 </p>
 
-<h2>🚀 About Me</h2>
+<h2>🚀  About Me</h2>
 
-I'm a Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning.
+I'm a B.Tech Computer Science student specializing in AI & Machine Learning, interested in building practical software and exploring intelligent systems.
 
-I'm passionate about programming, problem-solving, and exploring how technology can solve real-world problems.
-
-- 🎓 B.Tech in Computer Science (AI & ML)
-- 💻 Interested in Software Engineering
-- 🐍 Working with Python, C and C++
-- 🔢 Exploring numerical computing with NumPy
-- 🧠 Practicing Data Structures & Algorithms
+- 🎓 B.Tech CSE (AI & ML)
+- 💻 Programming with Python, C, and C++
 - 🌐 Familiar with HTML and CSS
-- 🐼 Currently learning Pandas
-- 🎯 Focused on building practical projects
+- 📊 Exploring NumPy and Pandas
+- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Interested in AI, Machine Learning, and Software Engineering
+- 🛠️ Learning through hands-on projects and experimentation
 
+Currently improving my programming fundamentals and building projects to turn ideas into practical applications.
 
 
 <h2>🛠️ Tech Stack</h2>
